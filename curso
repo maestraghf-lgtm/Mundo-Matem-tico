@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="es" id="exe-index">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="eXeLearning v4.0.0-beta1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc/4.0/">
+<title>Operaciones con números enteros</title>
+<link rel="icon" type="image/x-icon" href="libs/favicon.ico">
+<meta name="description" content="En este curso aprenderás divirtiéndote a operar con números enteros">
+<script>document.querySelector("html").classList.add("js");</script><script src="libs/jquery/jquery.min.js"> </script><script src="libs/common_i18n.js"> </script><script src="libs/common.js"> </script><script src="libs/exe_export.js"> </script><script src="libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="libs/bootstrap/bootstrap.min.css">
+<script src="idevices/text/text.js"></script><link rel="stylesheet" href="idevices/text/text.css">
+<link rel="stylesheet" href="content/css/base.css"><script src="theme/style.js"> </script><link rel="stylesheet" href="theme/style.css">
+<script src="libs/SCORM_API_wrapper.js"></script>
+<script src="libs/SCOFunctions.js"></script>
+</head>
+<body class="exe-export exe-scorm exe-scorm12" onload="loadPage()" onunload="unloadPage()" onbeforeunload="unloadPage()">
+<script>document.body.className+=" js"</script>
+<div class="exe-content exe-export pre-js siteNav-hidden"> <main id="page-mmbelqwi-cqmeqq674" class="page"> 
+<header class="main-header"> <p class="page-counter"> <span class="page-counter-label">Página </span><span class="page-counter-content"> <strong class="page-counter-current-page">1</strong><span class="page-counter-sep">/</span><strong class="page-counter-total">7</strong></span></p>
+
+<div class="package-header"><h1 class="package-title">Operaciones con números enteros</h1>
+<p class="package-subtitle">Aprendiendo a calcular números enteros</p></div>
+<div class="page-header"><h2 class="page-title">Bienvenidos al Mundo Matemático</h2></div>
+</header><div id="page-content-page-mmbelqwi-cqmeqq674" class="page-content">
+<article id="20260223002132DVYBWP" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">Bienvenidos</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="20260217173441770DGB" class="idevice_node text" data-idevice-path="idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;20260217173441770DGB&quot;}">
+<div class="exe-text"><div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><img src="content/resources/20260217173441770DGB/WhatsApp_Image_2026-02-17_at_5.22.02_PM.jpeg" width="575" height="575" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p>Queridos estudiantes:</p>
+<p><br>Les doy la más cordial bienvenida a este curso digital sobre las operaciones con números enteros.<br>Aquí aprenderán paso a paso, de manera clara y sencilla, a trabajar con números positivos y negativos, utilizando ejemplos, imágenes, juegos y actividades prácticas.<br>Este espacio ha sido creado pensando en ustedes, para que puedan aprender sin miedo y con confianza.</p>
+<p><br>¡Comencemos juntos esta aventura matemática!</p><p class="clearfix"></p></div>
+            </div></div></div></div>
+</div>
+</div>
+</article><article id="20260223002132JDSDOW" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">Información general</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="202602172016572884AP" class="idevice_node text" data-idevice-path="idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;202602172016572884AP&quot;}">
+<div class="exe-text"><div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong>Título del Curso: </strong>Operaciones con Números Enteros<br><strong>Asignatura:</strong> Matemáticas<br><strong>Nivel:</strong> Primer Ciclo de Secundaria<br><strong>Modalidad:</strong> Digital<br><strong>Autora:</strong> Gardenia Hidalgo<br><strong>Año: </strong>2026</p>
+<p><strong>Objetivo General</strong></p>
+<p>Desarrollar en los estudiantes la capacidad de comprender y aplicar correctamente las operaciones con números enteros, fortaleciendo el razonamiento matemático, la autonomía y la confianza en el aprendizaje matemático.<br></p>
+<p><strong>Objetivos Específicos</strong></p>
+<p>Al finalizar este curso, el estudiante será capaz de:</p>
+<ul>
+<li>Identificar y representar los números enteros.</li>
+<li>Aplicar correctamente las reglas de los signos.</li>
+<li>Resolver operaciones básicas con números enteros.</li>
+<li>Relacionar los contenidos con situaciones de la vida diaria.</li>
+<li>Participar activamente en actividades interactivas.</li>
+</ul>
+<p><strong>Metodología de Trabajo</strong></p>
+<p>El curso se desarrollará mediante una metodología activa, combinando:</p>
+<ul>
+<li>Explicaciones claras.</li>
+<li>Recursos visuales.</li>
+<li>Videos educativos.</li>
+<li>Actividades interactivas.</li>
+<li>Juegos matemáticos.</li>
+<li>Ejercicios de autoevaluación.</li>
+</ul>
+<p>El estudiante podrá avanzar a su propio ritmo y reforzar los contenidos según sus necesidades.<br></p>
+<p><strong>Estrategia de Evaluación</strong></p>
+<p>El aprendizaje será evaluado a través de:</p>
+<ul>
+<li>Actividades interactivas.</li>
+<li>Juegos de relación.</li>
+<li>Cuestionarios de autoevaluación.</li>
+<li>Observación del desempeño.</li>
+</ul>
+<p>Estas estrategias permitirán identificar fortalezas y áreas de mejora.</p>
+<p><strong>Estructura del Curso</strong></p>
+<p>El curso está organizado de la siguiente manera:</p>
+<ul>
+<li>Bienvenidos al Mundo Matemático</li>
+<li><strong>Módulo 1:</strong> Descubriendo los Números Enteros</li>
+<li><strong>Módulo 2: </strong>Jugando con las Operaciones</li>
+<li><strong>Módulo 3:</strong> Detectives Matemáticos</li>
+<li><strong>Módulo 4:</strong> Último Desafío</li>
+<li><strong>Cierre:</strong> Hasta Pronto Matemáticos<br></li>
+</ul>
+<p><strong>Importancia del Curso</strong></p>
+<p>Este curso busca fortalecer el pensamiento lógico, promover la autonomía del estudiante y facilitar el aprendizaje significativo de las matemáticas en contextos reales.</p><p class="clearfix"></p></div>
+            </div></div></div></div>
+</div>
+</div>
+</article><article id="20260223002132XHCLRZ" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">¿Qué vamos a aprender?</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="20260217173823846LLY" class="idevice_node text" data-idevice-path="idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;20260217173823846LLY&quot;}">
+<div class="exe-text"><div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><img src="content/resources/20260217173823846LLY/WhatsApp_Image_2026-02-17_at_5.41.25_PM.jpeg" width="639" height="426" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p>En este objeto de aprendizaje estudiaremos los números enteros y sus operaciones básicas: suma, resta, multiplicación y división.</p>
+<p>A lo largo del curso aprenderás a:</p>
+<ul>
+<li>&nbsp;Comprender el significado de los números positivos y negativos.</li>
+<li>Representarlos en la recta numérica.</li>
+<li>Aplicar correctamente las reglas de los signos.</li>
+<li>Resolver problemas de la vida cotidiana.</li>
+<li>Verificar tus resultados.</li>
+</ul>
+<p>Todo esto se desarrollará mediante explicaciones sencillas y actividades interactivas.</p><p class="clearfix"></p></div>
+            </div></div></div></div>
+</div>
+</div>
+</article><article id="20260223002132GDXJQM" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">Metodología y Motivación</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="20260217175536739Y6N" class="idevice_node text" data-idevice-path="idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;20260217175536739Y6N&quot;}">
+<div class="exe-text"><div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p style="text-align: center;"><img src="content/resources/20260217175536739Y6N/PM.jpeg" width="447" height="298" alt=""><img src="content/resources/20260217175536739Y6N/WhatsApp_Image_2026-02-17_at_5.52.27_PM...jpeg" width="449" height="299" alt=""></p><p class="clearfix"></p></div>
+            </div></div></div></div>
+</div>
+</div>
+</article>
+</div></main>
+<footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-nc"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-nc/4.0/" class="license">creative commons: attribution - non commercial 4.0 (BY-NC)</a></p>
+</div>
+</div></footer>
+</div>
+<p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
+</body>
+</html>
